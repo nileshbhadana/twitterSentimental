@@ -1,0 +1,2 @@
+# twitterSentimental
+Twitter sentimental analysis
