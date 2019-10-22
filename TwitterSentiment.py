@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+#importing required modules and libraries
 import tweepy, sys
 import matplotlib.pyplot as plt
 from textblob import TextBlob
